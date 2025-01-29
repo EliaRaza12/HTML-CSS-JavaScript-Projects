@@ -7,6 +7,10 @@ This is a simple calculator application built within 24 hours to practice and sh
 **User-friendly Interface:** Simple and intuitive layout for easy use by anyone.
 **Basic Arithmetic Operations:** Perform addition, subtraction, multiplication, and division.
 
+# Screenshot
+Here’s how the calculator looks:
+![Screenshot](calculator.png)
+
 # Lessons Learned
 **Improved JavaScript Skills:** Gained a deeper understanding of handling basic JavaScript logic for operations and user input.
 **Working with jQuery:** Learned how to use jQuery for DOM manipulation and event handling, making the app more interactive and dynamic.
